@@ -185,4 +185,4 @@ Este projeto é de uso interno.
 
 ---
 
-**Última atualização**: 2024
+**Última atualização**: 29/12/2025
